@@ -5,5 +5,8 @@ public class Main {
         c.makeSound();
         c.eat("Tuna");
 
+        c.showMood(true);
+        c.showMood(false);
+
     }
 }
