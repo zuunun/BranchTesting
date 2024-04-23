@@ -3,5 +3,7 @@ public class Main {
         Cat c = new Cat();
 
         c.makeSound();
+        c.eat("Tuna");
+
     }
 }
